@@ -1,0 +1,4 @@
+USE cmis320_project3;
+source C:/Users/Teebs/Documents/UMGC/CMIS320/week6/project3_create.sql;
+source C:/Users/Teebs/Documents/UMGC/CMIS320/week6/project3_insert.sql;
+source C:/Users/Teebs/Documents/UMGC/CMIS320/week6/project3_modify.sql;
